@@ -3,4 +3,11 @@ How's it going? I'm Jonathan, or as you may know me as Jb. I'm a fullstack devel
 
 ---
 [![Jb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jbablestime&theme=radical)](https://biography.gg/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jbablestime&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jbablestime&theme=radical)](https://biography.gg/)
+
+## My Work 💼
+🎩 **CEO** for [The JB Association](https://github.com/The-JB-Association)
+- [Biography.gg](https://biography.gg/)
+  
+⚙️ **Software Engineer** for [AuraSide](https://github.com/AuraSide)  
+-   [Ghast.io](https://ghast.io/)
