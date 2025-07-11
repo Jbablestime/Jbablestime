@@ -11,3 +11,6 @@ How's it going? I'm Jonathan, or as you may know me as Jb. I'm a fullstack devel
   
 ⚙️ **Software Engineer** for [AuraSide](https://github.com/AuraSide)  
 -   [Ghast.io](https://ghast.io/)
+
+## Stack ⚙️
+[![My Stack](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,angular,vite,tauri,cloudflare,express,tailwindcss,bootstrap,lua,discordjs,python,nest,next,nginx,php,sqlite,postgres,ubuntu&perline=10)](https://skillicons.dev)
