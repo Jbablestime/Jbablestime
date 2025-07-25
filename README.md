@@ -12,8 +12,6 @@ Hey there, I'm Jonathan. I'm a Senior Software Engineer and UX Design student, a
 ⚙️ **Software Engineer** for [AuraSide](https://github.com/AuraSide)  
 -   [Ghast.io](https://ghast.io/)
 
-**Interested in my professional work?**
-
 
 ## Stack ⚙️
 <table align="center">
@@ -36,3 +34,6 @@ Hey there, I'm Jonathan. I'm a Senior Software Engineer and UX Design student, a
     </td>
   </tr>
 </table>
+
+## Interested in my past work?
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-mauler/)
