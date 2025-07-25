@@ -5,6 +5,8 @@ How's it going? I'm Jonathan, or as you may know me as Jb. I'm a fullstack devel
 [![Jb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jbablestime&theme=radical)](https://biography.gg/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jbablestime&theme=radical)](https://biography.gg/)
 
+[![jbablestime on Discord](https://lanyard.cnrad.dev/api/750454372650975232)](https://discord.gg/biosite)
+
 ## My Work 💼
 🎩 **CEO** for [The JB Association](https://github.com/The-JB-Association)
 - [Biography.gg](https://biography.gg/)
