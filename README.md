@@ -1,5 +1,5 @@
 ## Guten Tag! 👋🏻
-How's it going? I'm Jonathan, or as you may know me as Jb. I'm a fullstack developer from Germany focused on software development and UX design. Over the 9+ years of experience as a developer, and around 7+ years of experience as a development freelancer/contractor, I've gained a suitable amount of knowledge in the field of software and web development. My main focus is producing free and open sourced software that can be used by anyone for whatever they may need.
+Hey there, I'm Jonathan. I'm a Senior Software Engineer and UX Design student, always learning new ways to improve my programming skills. WIthin the last 7 years, I've excelled in the world of programming. I opened up to new stacks, learned new frameworks, and built websites and applications that represent these skillsets well. During the last 3 years, I've been super interested in Cyber Security. Being certified in CompTIA A+ and Security+, I've learned my fair-share about the depths of the internet and how to protect myself against it. I love coffee, Korey, and taking pictures of the world.
 
 [![jbablestime on Discord](https://lanyard.cnrad.dev/api/750454372650975232)](https://discord.gg/biosite)
 
