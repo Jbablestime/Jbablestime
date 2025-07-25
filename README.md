@@ -1,7 +1,7 @@
 ## Guten Tag! 👋🏻
 Hey there, I'm Jonathan. I'm a Senior Software Engineer and UX Design student, always learning new ways to improve my programming skills. Within the last 7 years, I've excelled in the world of programming. I opened up to new stacks, learned new frameworks, and built websites and applications that represent these skillsets well. During the last 3 years, I've been super interested in Cyber Security. Being certified in CompTIA A+ and Security+, I've learned my fair-share about the depths of the internet and how to protect myself against it. I love coffee, Korey, and taking pictures of the world.
 
-[![jbablestime on Discord](https://lanyard.cnrad.dev/api/750454372650975232)](https://discord.gg/biosite)‎ ‎ ‎ 
+[![jbablestime on Discord](https://lanyard.cnrad.dev/api/750454372650975232)](https://discord.com/user/750454372650975232)‎ ‎ ‎ 
 [![Jb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jbablestime&theme=radical)](https://biography.gg/)
 
 ---
@@ -11,6 +11,9 @@ Hey there, I'm Jonathan. I'm a Senior Software Engineer and UX Design student, a
   
 ⚙️ **Software Engineer** for [AuraSide](https://github.com/AuraSide)  
 -   [Ghast.io](https://ghast.io/)
+
+**Interested in my professional work?**
+
 
 ## Stack ⚙️
 <table align="center">
