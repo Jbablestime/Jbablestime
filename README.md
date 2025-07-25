@@ -3,7 +3,7 @@ Hey there, I'm Jonathan. I'm a Senior Software Engineer and UX Design student, a
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-mauler/)‎ ‎ ‎
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Jbablestime)‎ ‎ ‎
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Jbablestime)‎ ‎ ‎
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Jbablestime)‎
 
 [![jbablestime on Discord](https://lanyard.cnrad.dev/api/750454372650975232)](https://discord.com/user/750454372650975232)‎ ‎ ‎ 
 [![Jb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jbablestime&theme=radical)](https://biography.gg/)
