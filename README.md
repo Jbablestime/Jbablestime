@@ -10,12 +10,15 @@ Hey there, I'm Jonathan. I'm a Senior Software Engineer and UX Design student, a
 
 ---
 ## My Work 💼
-🎩 **CEO** for [The JB Association](https://github.com/The-JB-Association)
-- [Biography.gg](https://biography.gg/)
-  
-⚙️ **Software Engineer** for [AuraSide](https://github.com/AuraSide)  
--   [Ghast.io](https://ghast.io/)
+🤵🏻 **Chief Executive Officer** @ __[The JB Association](https://github.com/The-JB-Association)__
 
+✨ **Senior Software Developer** @ __[Ghast.io](https://ghast.io)__
+
+🌟 **Zendesk Theme Manager** @ __[Hone.gg](https://hone.gg)__
+   - [Hone Helpdesk](https://support.hone.gg)
+
+☕ **Owner** @  __[Biography.gg](https://biography.gg)__
+   - [Biography Discord](https://discord.gg/biosite)
 
 ## Stack ⚙️
 <table align="center">
