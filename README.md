@@ -12,7 +12,7 @@ Hey there, I'm Jonathan. I'm a Senior Software Engineer and UX Design student, a
 ## My Work 💼
 🤵🏻 **Chief Executive Officer** @ __[The JB Association](https://github.com/The-JB-Association)__
 
-✨ **Senior Software Developer** @ __[Ghast.io](https://ghast.io)__
+✨ **Senior Software Engineer** @ __[Ghast.io](https://ghast.io)__
 
 🌟 **Zendesk Theme Manager** @ __[Hone.gg](https://hone.gg)__
    - [Hone Help Desk](https://support.hone.gg)
