@@ -18,7 +18,7 @@ Hey there, I'm Jonathan. I'm a Senior Software Engineer and UX Design student, a
    - [Hone Help Desk](https://support.hone.gg)
 
 ☕ **Owner** @  __[Biography.gg](https://biography.gg)__
-   - [Biography Discord](https://discord.gg/biosite)
+   - [Biography Discord](https://discord.biography.gg/)
 
 ## Stack ⚙️
 <table align="center">
