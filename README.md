@@ -14,7 +14,7 @@ Hey there, I'm Jonathan. I'm a Senior Software Engineer and UX Design student, a
 
 ✨ **Senior Software Engineer** @ __[Ghast.io](https://ghast.io)__
 
-🌟 **Zendesk Theme Manager** @ __[Hone.gg](https://hone.gg)__
+🌟 **Zendesk Manager** @ __[Hone.gg](https://hone.gg)__
    - [Hone Help Desk](https://support.hone.gg)
 
 ☕ **Owner** @  __[Biography.gg](https://biography.gg)__
