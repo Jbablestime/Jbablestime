@@ -1,5 +1,5 @@
 ## Guten Tag! 👋🏻
-Hey there, I'm Jonathan. I'm a Senior Software Engineer and UX Design student, always learning new ways to improve my programming skills. Within the last 7 years, I've excelled in the world of programming. I opened up to new stacks, learned new frameworks, and built websites and applications that represent these skillsets well. During the last 3 years, I've been super interested in Cyber Security. Being certified in CompTIA A+ and Security+, I've learned my fair-share about the depths of the internet and how to protect myself against it. I love coffee and taking pictures of the world.
+Hello, I'm Jonathan. I'm a senior software engineer and UX designer. I'm also an entrepreneur, I've dedicated the last 10 years of my life to growing and developing businesses. Focusing on what matters, things like marketability, privacy, and the need for paid access. I've always been one for open source software, and I've taken it upon myself to ensure all software developed by my company or I, is open sourced. Allowing creative freedom with the software, code, and community.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-mauler/)‎ ‎ ‎
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Jbablestime)‎ ‎ ‎
@@ -10,15 +10,16 @@ Hey there, I'm Jonathan. I'm a Senior Software Engineer and UX Design student, a
 
 ---
 ## My Work 💼
-🤵🏻 **Chief Executive Officer** @ __[The JB Association](https://github.com/The-JB-Association)__
+🎩 [**The JB Association**](https://thejbassociation.com): Founder/Chief Executive Officer
 
-✨ **Senior Software Engineer** @ __[Ghast.io](https://ghast.io)__
+🌐 [**Biography.gg**](https://biography.gg/): Owner/Lead Developer
 
-🌟 **Zendesk Manager** @ __[Hone.gg](https://hone.gg)__
-   - [Hone Help Desk](https://support.hone.gg)
+⬆️ [**Hone.gg**](https://hone.gg): Zendesk Manager
 
-☕ **Owner** @  __[Biography.gg](https://biography.gg)__
-   - [Biography Discord](https://discord.biography.gg/)
+💻 [**DA Tech Labs**](https://datechlabs.com): Manager
+
+## My Contributions 💪🏻
+👻 **Ghast.io**: Former Owner/Lead Software Engineer
 
 ## Stack ⚙️
 <table align="center">
