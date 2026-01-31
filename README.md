@@ -18,7 +18,8 @@ Hello, I'm Jonathan. I'm a senior software engineer and UX designer. I'm also an
 
 ## My Contributions 💪🏻
 👻 **Ghast.io**: Former Owner/Lead Software Engineer
-⬆️ [**Hone.gg**]: Former Director/Zendesk Manager
+
+⬆️ **Hone.gg**: Former Director/Zendesk Manager
 
 ## Stack ⚙️
 <table align="center">
