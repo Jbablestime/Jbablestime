@@ -14,12 +14,11 @@ Hello, I'm Jonathan. I'm a senior software engineer and UX designer. I'm also an
 
 🌐 [**Biography.gg**](https://biography.gg/): Owner/Lead Developer
 
-⬆️ [**Hone.gg**](https://hone.gg): Zendesk Manager
-
 💻 [**DA Tech Labs**](https://datechlabs.com): Manager
 
 ## My Contributions 💪🏻
 👻 **Ghast.io**: Former Owner/Lead Software Engineer
+⬆️ [**Hone.gg**]: Former Director/Zendesk Manager
 
 ## Stack ⚙️
 <table align="center">
