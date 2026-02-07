@@ -21,14 +21,14 @@
     <td align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbablestime&layout=compact&theme=dark&hide_border=true" 
+          src="http://jb-github-stats.vercel.app/api/top-langs/?username=jbablestime&layout=compact&theme=dark&hide_border=true" 
           alt="Top Languages" 
         />
       </a>
     </td>
     <td align="center">
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=jbablestime&theme=radical" 
+          src="http://jb-github-stats.vercel.app/api?username=jbablestime&theme=radical&hide_border=true" 
           alt="Language Usage"
         />
     </td>
