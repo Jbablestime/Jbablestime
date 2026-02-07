@@ -10,6 +10,12 @@
   <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=9087C4">
 </p>
 
+<div align="center">
+  <a href="https://discord.com/users/750454372650975232"><img src="https://lanyard.cnrad.dev/api/750454372650975232"></a>
+</div>
+
+<br>
+
 <table align="center">
   <tr>
     <td align="center">
