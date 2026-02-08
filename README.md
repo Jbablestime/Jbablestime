@@ -19,7 +19,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://thejbassociation.com/">
         <img 
           src="http://jb-github-stats.vercel.app/api/top-langs/?username=Jbablestime&layout=compact&theme=dark&hide_border=true" 
           alt="Top Languages" 
@@ -27,10 +27,10 @@
       </a>
     </td>
     <td align="center">
-        <img 
+        <a href="https://biography.gg"><img 
           src="http://jb-github-stats.vercel.app/api?username=Jbablestime&theme=radical&layout=compact&hide_border=true" 
           alt="Language Usage"
-        />
+        /></a>
     </td>
   </tr>
 </table>
