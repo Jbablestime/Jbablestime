@@ -110,7 +110,7 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis" /><br>
       <b>Redis</b>
-    </td>
+    </td><br>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=bun" width="48" alt="Bun" /><br>
       <b>Bun</b>
