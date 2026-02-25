@@ -67,7 +67,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&letterSpacing=-0.5px&duration=1&pause=1000&color=9087C4&center=true&vCenter=true&width=435&lines=Stack" alt="Typing SVG" />
 
-  <a href="https://wakatime.com/@68edeb7b-2d6b-45a9-aa7c-36efbba94477"><img src="https://wakatime.com/badge/user/68edeb7b-2d6b-45a9-aa7c-36efbba94477.svg" alt="Total time coded since May 13 2025" /></a>
+  <a href="https://wakatime.com/@68edeb7b-2d6b-45a9-aa7c-36efbba94477"><img src="https://wakatime.com/badge/user/68edeb7b-2d6b-45a9-aa7c-36efbba94477.svg" alt="Total time coding since May 13 2025" /></a>
 
   <table align="center">
   <tr>
@@ -102,6 +102,18 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=next" width="48" alt="Next.js" /><br>
       <b>Next</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nest" width="48" alt="NestJS" /><br>
+      <b>NestJS</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis" /><br>
+      <b>Redis</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=bun" width="48" alt="Bun" /><br>
+      <b>Bun</b>
     </td>
   </tr>
 </table>
