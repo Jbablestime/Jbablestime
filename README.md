@@ -148,6 +148,10 @@
      <img src="https://skillicons.dev/icons?i=nginx" width="48" alt="Nginx" /><br>
      <b>Nginx</b>
     </td>
+    <td align="center" width="100">
+     <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" /><br>
+     <b>Docker</b>
+    </td>
   </tr>
 </table>
 </div>
