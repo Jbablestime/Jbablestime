@@ -21,7 +21,7 @@
     <td align="center">
       <a href="https://thejbassociation.com/">
         <img 
-          src="http://jb-github-stats.vercel.app/api/top-langs/?username=Jbablestime&layout=compact&theme=dark&hide_border=true" 
+          src="http://jb-github-stats.vercel.app/api/top-langs/?username=Jbablestime&layout=compact&theme=radical&hide_border=true" 
           alt="Top Languages" 
         />
       </a>
