@@ -7,6 +7,7 @@
 <p align="center">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Jbablestime?style=for-the-badge&color=9087C4">
   <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/Jbablestime?style=for-the-badge&color=9087C4">
+  <img alt="GitHub Views" src="https://komarev.com/ghpvc/?username=Jbablestime&style=for-the-badge&color=9087C4&label=Views">
   <a href="https://x.com/Jbablestime"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=9087C4"></a><br>
 </p><br>
 
