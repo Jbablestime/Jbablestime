@@ -47,7 +47,7 @@
  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&letterSpacing=-0.5px&duration=1&pause=1000&color=9087C4&center=true&vCenter=true&width=435&lines=Homelab" alt="Typing SVG" />
   
   <details>
-  <summary>NVIDIA Jetson Nano Developer Kit</summary>
+  <summary><kbd>NVIDIA Jetson Nano Developer Kit</kbd></summary>
   <br>
     
   <pre align="left">
@@ -57,7 +57,7 @@
     [Operating System]: <kbd>NVIDIA Jetpack (Ubuntu 18)</kbd></pre>
 </details>
 <details>
-  <summary>8th Generation Intel NUC</summary>
+  <summary><kbd>8th Generation Intel NUC</kbd></summary>
   <br>
     
   <pre align="left">
