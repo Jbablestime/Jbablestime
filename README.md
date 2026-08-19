@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://wigle.net"><img border="0" src="https://wigle.net/bi/LQHnKSJk9_4yOTtc+euMUw.png"></a><br>
-  <a href="https://wdgwars.pl/"><img src="https://wdgwars.pl/card/Jbablestime.svg?variant=compact" alt="WDGWars card"></a>
+  <a href="https://wdgwars.pl/"><img src="https://wdgwars.pl/card/Jbablestime.svg" alt="WDGWars card"></a>
 </p>
 
 <div align="center">
