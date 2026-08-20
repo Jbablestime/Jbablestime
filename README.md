@@ -114,18 +114,26 @@
       <b>NestJS</b>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis" /><br>
-      <b>Redis</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=bun" width="48" alt="Bun" /><br>
       <b>Bun</b>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" alt="Laravel" /><br>
+      <b>Laravel</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis" /><br>
+      <b>Redis</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite" /><br>
+      <b>SQLite</b>
+    </td>
+  </tr>
 </table>
-</div>
+</div><br>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&letterSpacing=-0.5px&duration=1&pause=1000&color=9087C4&center=true&vCenter=true&width=435&lines=Software" alt="Typing SVG" />
@@ -133,20 +141,12 @@
   <table align="center">
   <tr>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=notion" width="48" alt="Notion" /><br>
-      <b>Notion</b>
-    </td>
-    <td align="center" width="100">
      <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" /><br>
      <b>VS Code</b>
     </td>
     <td align="center" width="100">
      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" alt="Android Studio" /><br>
      <b>Android Studio</b>
-    </td>
-    <td align="center" width="100">
-     <img src="https://skillicons.dev/icons?i=ubuntu" width="48" alt="Ubuntu" /><br>
-     <b>Ubuntu</b>
     </td>
     <td align="center" width="100">
      <img src="https://skillicons.dev/icons?i=cloudflare" width="48" alt="Cloudflare" /><br>
@@ -159,6 +159,39 @@
     <td align="center" width="100">
      <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" /><br>
      <b>Docker</b>
+    </td>
+    <td align="center" width="100">
+     <img src="https://skillicons.dev/icons?i=obsidian" width="48" alt="Obsidian" /><br>
+     <b>Obsidian</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=notion" width="48" alt="Notion" /><br>
+      <b>Notion</b>
+    </td>
+    <td align="center" width="100">
+     <img src="https://skillicons.dev/icons?i=idea" width="48" alt="Intellij Idea" /><br>
+     <b>Intellij Idea</b>
+    </td>
+  </tr>
+</table>
+</div><br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&letterSpacing=-0.5px&duration=1&pause=1000&color=9087C4&center=true&vCenter=true&width=435&lines=Operating+Systems" alt="Typing SVG" />
+
+  <table align="center">
+  <tr>
+    <td align="center" width="100">
+     <img src="https://skillicons.dev/icons?i=debian" width="48" alt="Debian" /><br>
+     <b>Debian</b>
+    </td>
+    <td align="center" width="100">
+     <img src="https://skillicons.dev/icons?i=ubuntu" width="48" alt="Ubuntu" /><br>
+     <b>Ubuntu</b>
+    </td>
+    <td align="center" width="100">
+     <img src="https://skillicons.dev/icons?i=windows" width="48" alt="Windows" /><br>
+     <b>Windows</b>
     </td>
   </tr>
 </table>
