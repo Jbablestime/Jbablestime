@@ -1,7 +1,7 @@
 <h3 align="center">👋🏻 Wilkommen, I'm Jonathan</h3>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&letterSpacing=-0.5px&pause=1000&color=9087C4&center=true&vCenter=true&width=435&lines=Owner+%26+Lead+Developer+%40+Biography.gg;Senior+Fullstack+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Flex&size=22&letterSpacing=-0.5&pause=1000&color=9087C4&center=true&vCenter=true&width=435&lines=CEO%2C+The+JB+Association%2C+LLC;Senior+Fullstack+Engineer;UX+Designer;Electrical+Engineer" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
