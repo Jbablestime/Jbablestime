@@ -71,7 +71,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&letterSpacing=-0.5px&duration=1&pause=1000&color=9087C4&center=true&vCenter=true&width=435&lines=Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Google+Sans+Flex&size=22&letterSpacing=-0.5px&duration=1&pause=1000&color=9087C4&center=true&vCenter=true&width=435&lines=Stack" alt="Typing SVG" />
 
   <a href="https://wakatime.com/@68edeb7b-2d6b-45a9-aa7c-36efbba94477"><img src="https://wakatime.com/badge/user/68edeb7b-2d6b-45a9-aa7c-36efbba94477.svg" alt="Total time coding since May 13 2025" /></a>
 
@@ -136,7 +136,7 @@
 </div><br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&letterSpacing=-0.5px&duration=1&pause=1000&color=9087C4&center=true&vCenter=true&width=435&lines=Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Google+Sans+Flex&size=22&letterSpacing=-0.5px&duration=1&pause=1000&color=9087C4&center=true&vCenter=true&width=435&lines=Software" alt="Typing SVG" />
 
   <table align="center">
   <tr>
@@ -147,6 +147,14 @@
     <td align="center" width="100">
      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" alt="Android Studio" /><br>
      <b>Android Studio</b>
+    </td>
+    <td align="center" width="100">
+     <img src="https://skillicons.dev/icons?i=idea" width="48" alt="Intellij Idea" /><br>
+     <b>Intellij Idea</b>
+    </td>
+    <td align="center" width="100">
+     <img src="https://skillicons.dev/icons?i=phpstorm" width="48" alt="Intellij Idea" /><br>
+     <b>PhpStorm</b>
     </td>
     <td align="center" width="100">
      <img src="https://skillicons.dev/icons?i=cloudflare" width="48" alt="Cloudflare" /><br>
@@ -168,16 +176,12 @@
       <img src="https://skillicons.dev/icons?i=notion" width="48" alt="Notion" /><br>
       <b>Notion</b>
     </td>
-    <td align="center" width="100">
-     <img src="https://skillicons.dev/icons?i=idea" width="48" alt="Intellij Idea" /><br>
-     <b>Intellij Idea</b>
-    </td>
   </tr>
 </table>
 </div><br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&letterSpacing=-0.5px&duration=1&pause=1000&color=9087C4&center=true&vCenter=true&width=435&lines=Operating+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Google+Sans+Flex&size=22&letterSpacing=-0.5px&duration=1&pause=1000&color=9087C4&center=true&vCenter=true&width=435&lines=Operating+Systems" alt="Typing SVG" />
 
   <table align="center">
   <tr>
