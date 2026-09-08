@@ -27,14 +27,14 @@
     <td align="center">
       <a href="https://thejbassociation.com/">
         <img 
-          src="http://jb-github-stats.vercel.app/api/top-langs/?username=Jbablestime&layout=compact&theme=radical&hide_border=true" 
+          src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jbablestime&layout=compact&theme=radical&hide_border=true" 
           alt="Top Languages" 
         />
       </a>
     </td>
     <td align="center">
         <a href="https://biography.gg"><img 
-          src="http://jb-github-stats.vercel.app/api?username=Jbablestime&theme=radical&layout=compact&hide_border=true" 
+          src="https://github-stats-extended.vercel.app/api?username=Jbablestime&theme=radical&layout=compact&hide_border=true" 
           alt="Language Usage"
         /></a>
     </td>
