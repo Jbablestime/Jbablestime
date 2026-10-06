@@ -131,6 +131,10 @@
       <img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite" /><br>
       <b>SQLite</b>
     </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=rust" width="48" alt="Rust" /><br>
+      <b>Rust</b>
+    </td>
   </tr>
 </table>
 </div><br>
