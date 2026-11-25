@@ -63,7 +63,7 @@
   <pre align="left">
     [Central Processing Unit]: <kbd>Intel Core i5-8259U @ 2.3/3.8 GHz | 4 Core/8 Thread</kbd>
     [Graphics Processing Unit]: <kbd>Intel Iris Plus 655</kbd>
-    [Random Access Memory]: <kbd>8GB</kbd>
+    [Random Access Memory]: <kbd>24GB</kbd>
     [Operating System]: <kbd>Ubuntu 24</kbd></pre>
 </details>
 </div>
